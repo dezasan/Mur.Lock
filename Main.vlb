@@ -1,0 +1,15 @@
+﻿[lbPersonagem]
+Coordinates=180,10,97,58
+
+[pnBase]
+Coordinates=10,146,58,58
+
+[cbxPersonagem]
+Coordinates=78,146,107,36
+
+[imgLogo]
+Coordinates=121,78,64,58
+
+[]
+Coordinates=195,78,69,58
+
